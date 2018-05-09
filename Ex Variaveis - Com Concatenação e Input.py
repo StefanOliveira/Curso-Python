@@ -1,5 +1,0 @@
-print('O meu primeiro programa em Python')
-Num1 = int(input('Digite um número: '))
-Num2 = int(input('Digite outro número: '))
-print('O resultado de',Num1,'+',Num2, 'é:' ,Num1+Num2)
-print('Fim do programa')
